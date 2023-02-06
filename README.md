@@ -12,3 +12,7 @@ API for a social network web application where users can share their thoughts, r
 
    ## Usage
  Users can create a username and email, add users as friends. Post a users thoughts and add reactions to those thoughts, update(PUT) and delete reactions and thoughts, lastly users can delete friends.
+
+## Questions?
+  ### Reach me here: 
+  [iTeak](https://github.com/iTeak 
